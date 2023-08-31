@@ -1,0 +1,20 @@
+{
+  "name": "react-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amanrawat17/react-challenge.git"
+  },
+  "author": "Alpha tech <AlphaTechEmail>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amanrawat17/react-challenge/issues"
+  },
+  "homepage": "https://github.com/Amanrawat17/react-challenge#readme"
+}
