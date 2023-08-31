@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #333;
+}
+
+.search-section {
+    margin-top: 20px;
+}
+
+#breedInput {
+    width: 300px;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+#searchButton {
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#searchButton:hover {
+    background-color: #555;
+}
+
+.image-section {
+    margin-top: 20px;
+}
+
+.image-section h2,
+.favorites-section h2 {
+    color: #333;
+}
+
+#imageDisplay {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+#imageDisplay img {
+    width: 200px;
+    height: auto;
+    margin: 10px;
+    cursor: pointer;
+}
+
+#favorites {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
